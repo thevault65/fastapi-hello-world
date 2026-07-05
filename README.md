@@ -1,2 +1,2 @@
 # FastApi
-This is mmy first api file
+This is my first api file
